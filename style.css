@@ -20,4 +20,12 @@ body {
     width: 100%;
 }
 
+.main-box .sidebar-menu {
+    position: fixed;
+    height: 100vh;
+    width: 280px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 7px rgba(255, 255, 255, 0.5);
+}
+
 
