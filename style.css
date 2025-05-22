@@ -45,3 +45,8 @@ body {
     text-decoration: none;
 }
 
+.sidebar-menu .menu {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+}
