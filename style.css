@@ -50,3 +50,18 @@ body {
     top: 90px;
     width: 100%;
 }
+
+.sidebar-menu .menu li {
+    margin-top: 6px;
+    padding: 14px 20px;
+}
+
+.menu a {
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+.sidebar-menu .menu li:hover {
+    border-left: 1px solid white;
+}
